@@ -9,4 +9,4 @@ import com.example.PracticeProject.entity.StuEnt;
 public interface StudentRepository extends JpaRepository<StuEnt, Long> {
     
     
-}
+}   
